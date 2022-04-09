@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Alc6NjHcXCm1XVIy2+d/IPTwp7j7sOYVj+pZPrO/CfBeCy1D+lhmw1oEflGZHmWIkAkBfha0+BftwYLdz/irqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrcur\\Desktop\\this-not-news\\src\\server\\Soccer.Core\\Soccer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrcur\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

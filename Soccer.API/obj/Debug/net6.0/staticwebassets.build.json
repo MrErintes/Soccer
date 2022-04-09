@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5n2/eVhFNic75eXziwxmn98mRrV5VgTxoOo7HeH4+AQ=",
+  "Source": "Soccer.API",
+  "BasePath": "_content/Soccer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Soccer.API\\wwwroot",
+      "Source": "Soccer.API",
+      "ContentRoot": "C:\\Users\\mrcur\\Desktop\\this-not-news\\src\\server\\Soccer.API\\wwwroot\\",
+      "BasePath": "_content/Soccer.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

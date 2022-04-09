@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TaUejwVQCDgvgmOXQ8zYnJWokUag2yC92CdHGzlvWANGVGe0jF2WEAb+FyyiYcxBjXR0Nj0DA4oiVL3dGCk/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrcur\\Desktop\\this-not-news\\src\\server\\Soccer.Application\\Soccer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrcur\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\mrcur\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\mrcur\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mrcur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
